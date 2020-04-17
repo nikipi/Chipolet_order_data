@@ -9,4 +9,4 @@ This project contains basic to advanced Python data analysis tricks.
 
 Come get some practices~
 
-
+![image](https://github.com/nikipi/Chipolet_order_data/blob/master/breakfast-burrito.jpg)
